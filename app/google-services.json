@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "529060912731",
+    "firebase_url": "https://transferrapidjavy.firebaseio.com",
+    "project_id": "transferrapidjavy",
+    "storage_bucket": "transferrapidjavy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529060912731:android:0f394bbb29b4110490297e",
+        "android_client_info": {
+          "package_name": "com.example.transferrapidjavy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529060912731-e55t7kjf4789t2j1m1c09nksugm5b36b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.transferrapidjavy",
+            "certificate_hash": "f07d72501174b1d55a57ada2d3f8c44af59b2800"
+          }
+        },
+        {
+          "client_id": "529060912731-ch9dcu50nfq3i8nqea6fdqvbc68bmnm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrpuowQfK_ZT0E0x93Iz1v6fEswVImUZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529060912731-ch9dcu50nfq3i8nqea6fdqvbc68bmnm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
